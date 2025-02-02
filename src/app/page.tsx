@@ -1,7 +1,9 @@
 import { SignOut } from "@/components/sign-out";
 import { auth } from "@/lib/auth";
 import { redirect } from "next/navigation";
-import Image from "next/image";
+
+
+// TODO save passwords as hash in db
 
 const Page = async () => {
   const session = await auth();
