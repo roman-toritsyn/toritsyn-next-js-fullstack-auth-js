@@ -4,7 +4,7 @@ Simple implementation of Auth.js with Prisma in Next.js 15 and incrypting passwo
 Requirements
 Node.js 22+
 
-cp .env.sample .env
+cp env.example .env
 # Update .env with your values
 Install & Run
 npm install
