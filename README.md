@@ -1,1 +1,1 @@
-# toritsyn-next-js-fullstack-auth-js
+# next auth
